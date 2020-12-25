@@ -1,0 +1,2329 @@
+[{
+  "fecha": "2020-12-21T11:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.461482,
+  "tenencia": 1478.79,
+  "resultado": 78.79
+}, {
+  "fecha": "2020-12-21T11:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 5.022755,
+  "tenencia": 95.52,
+  "resultado": 4.48
+}, {
+  "fecha": "2020-12-21T11:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 78380.0151,
+  "valor_cp": 9.091892,
+  "tenencia": 711990.1,
+  "resultado": 13547.09
+}, {
+  "fecha": "2020-12-21T11:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 29486.0836,
+  "valor_cp": 1.717325,
+  "tenencia": 50597.4,
+  "resultado": 573.01
+}, {
+  "fecha": "2020-12-18T11:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.548481,
+  "tenencia": 1478.79,
+  "resultado": 78.79
+}, {
+  "fecha": "2020-12-18T11:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 5.007396,
+  "tenencia": 95.52,
+  "resultado": 4.48
+}, {
+  "fecha": "2020-12-18T11:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 78380.0151,
+  "valor_cp": 9.083822,
+  "tenencia": 711990.1,
+  "resultado": 16665.02
+}, {
+  "fecha": "2020-12-18T11:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 29486.0836,
+  "valor_cp": 1.715976,
+  "tenencia": 50597.4,
+  "resultado": 573.01
+}, {
+  "fecha": "2020-12-17T11:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.508875,
+  "tenencia": 1471.94,
+  "resultado": 71.94
+}, {
+  "fecha": "2020-12-17T11:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 4.974808,
+  "tenencia": 94.9,
+  "resultado": 3.86
+}, {
+  "fecha": "2020-12-17T11:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 61867.142,
+  "valor_cp": 9.063235,
+  "tenencia": 560716.44,
+  "resultado": 15391.36
+}, {
+  "fecha": "2020-12-17T11:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 29486.0836,
+  "valor_cp": 1.714639,
+  "tenencia": 50557.98,
+  "resultado": 533.59
+}, {
+  "fecha": "2020-12-16T11:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.560367,
+  "tenencia": 1480.85,
+  "resultado": 80.85
+}, {
+  "fecha": "2020-12-16T11:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 4.967035,
+  "tenencia": 94.75,
+  "resultado": 3.71
+}, {
+  "fecha": "2020-12-16T11:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 61867.142,
+  "valor_cp": 9.05772,
+  "tenencia": 560375.24,
+  "resultado": 15050.16
+}, {
+  "fecha": "2020-12-16T11:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 29486.0836,
+  "valor_cp": 1.713304,
+  "tenencia": 50518.61,
+  "resultado": 494.22
+}, {
+  "fecha": "2020-12-15T11:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.514913,
+  "tenencia": 1472.99,
+  "resultado": 72.99
+}, {
+  "fecha": "2020-12-15T11:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 4.975078,
+  "tenencia": 94.9,
+  "resultado": 3.86
+}, {
+  "fecha": "2020-12-15T11:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 61867.142,
+  "valor_cp": 9.047894,
+  "tenencia": 559767.34,
+  "resultado": 14442.26
+}, {
+  "fecha": "2020-12-15T11:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 29486.0836,
+  "valor_cp": 1.711971,
+  "tenencia": 50479.31,
+  "resultado": 454.92
+}, {
+  "fecha": "2020-12-15T12:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.514913,
+  "tenencia": 1472.99,
+  "resultado": 72.99
+}, {
+  "fecha": "2020-12-15T12:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 4.975078,
+  "tenencia": 94.9,
+  "resultado": 3.86
+}, {
+  "fecha": "2020-12-15T12:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 61867.142,
+  "valor_cp": 9.047894,
+  "tenencia": 559767.34,
+  "resultado": 14442.26
+}, {
+  "fecha": "2020-12-15T12:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 29486.0836,
+  "valor_cp": 1.711971,
+  "tenencia": 50479.31,
+  "resultado": 454.92
+}, {
+  "fecha": "2020-12-11T12:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.513056,
+  "tenencia": 1472.67,
+  "resultado": 72.67
+}, {
+  "fecha": "2020-12-11T12:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 4.982144,
+  "tenencia": 95.04,
+  "resultado": 4
+}, {
+  "fecha": "2020-12-11T12:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 61867.142,
+  "valor_cp": 9.018615,
+  "tenencia": 557955.93,
+  "resultado": 12630.85
+}, {
+  "fecha": "2020-12-11T12:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 29486.0836,
+  "valor_cp": 1.706747,
+  "tenencia": 50325.27,
+  "resultado": 300.88
+}, {
+  "fecha": "2020-12-10T12:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.314697,
+  "tenencia": 1438.35,
+  "resultado": 38.35
+}, {
+  "fecha": "2020-12-10T12:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 4.996408,
+  "tenencia": 95.31,
+  "resultado": 4.27
+}, {
+  "fecha": "2020-12-10T12:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 61867.142,
+  "valor_cp": 9.003224,
+  "tenencia": 557003.73,
+  "resultado": 11678.65
+}, {
+  "fecha": "2020-12-10T12:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 29486.0836,
+  "valor_cp": 1.705478,
+  "tenencia": 50287.86,
+  "resultado": 263.47
+}, {
+  "fecha": "2020-12-09T12:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.705978,
+  "tenencia": 1506.04,
+  "resultado": 106.04
+}, {
+  "fecha": "2020-12-09T12:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 5.002129,
+  "tenencia": 95.42,
+  "resultado": 4.38
+}, {
+  "fecha": "2020-12-09T12:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 61867.142,
+  "valor_cp": 8.989821,
+  "tenencia": 556174.53,
+  "resultado": 10849.45
+}, {
+  "fecha": "2020-12-09T12:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 29486.0836,
+  "valor_cp": 1.699133,
+  "tenencia": 50100.77,
+  "resultado": 76.38
+}, {
+  "fecha": "2020-12-04T12:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.698567,
+  "tenencia": 1504.76,
+  "resultado": 104.76
+}, {
+  "fecha": "2020-12-04T12:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 4.966479,
+  "tenencia": 94.74,
+  "resultado": 3.7
+}, {
+  "fecha": "2020-12-04T12:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 61867.142,
+  "valor_cp": 8.982072,
+  "tenencia": 555695.12,
+  "resultado": 10370.04
+}, {
+  "fecha": "2020-12-04T12:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 29486.0836,
+  "valor_cp": 1.697878,
+  "tenencia": 50063.76,
+  "resultado": 39.37
+}, {
+  "fecha": "2020-12-03T12:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.71494,
+  "tenencia": 1507.59,
+  "resultado": 107.59
+}, {
+  "fecha": "2020-12-03T12:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 4.960748,
+  "tenencia": 94.63,
+  "resultado": 3.59
+}, {
+  "fecha": "2020-12-03T12:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 61867.142,
+  "valor_cp": 8.964011,
+  "tenencia": 554577.74,
+  "resultado": 9252.66
+}, {
+  "fecha": "2020-12-03T12:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 29486.0836,
+  "valor_cp": 1.696628,
+  "tenencia": 50026.91,
+  "resultado": 2.52
+}, {
+  "fecha": "2020-12-02T12:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.714339,
+  "tenencia": 1507.49,
+  "resultado": 107.49
+}, {
+  "fecha": "2020-12-02T12:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 4.955952,
+  "tenencia": 94.54,
+  "resultado": 3.5
+}, {
+  "fecha": "2020-12-02T12:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 61867.142,
+  "valor_cp": 8.958617,
+  "tenencia": 554244.03,
+  "resultado": 8918.95
+}, {
+  "fecha": "2020-12-02T12:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 29507.5336,
+  "valor_cp": 1.695394,
+  "tenencia": 50026.89,
+  "resultado": 2.5
+}, {
+  "fecha": "2020-12-01T12:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.689495,
+  "tenencia": 1503.19,
+  "resultado": 103.19
+}, {
+  "fecha": "2020-12-01T12:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 4.960262,
+  "tenencia": 94.62,
+  "resultado": 3.58
+}, {
+  "fecha": "2020-12-01T12:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 61867.142,
+  "valor_cp": 8.952436,
+  "tenencia": 553861.62,
+  "resultado": 8536.54
+}, {
+  "fecha": "2020-12-01T12:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 15.8638,
+  "valor_cp": 1.694158,
+  "tenencia": 26.87,
+  "resultado": 2.48
+}, {
+  "fecha": "2020-11-30T12:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.847642,
+  "tenencia": 1530.55,
+  "resultado": 130.55
+}, {
+  "fecha": "2020-11-30T12:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 4.967769,
+  "tenencia": 94.77,
+  "resultado": 3.73
+}, {
+  "fecha": "2020-11-30T12:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 61867.142,
+  "valor_cp": 8.938866,
+  "tenencia": 553022.09,
+  "resultado": 7697.01
+}, {
+  "fecha": "2020-11-30T12:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 15.8638,
+  "valor_cp": 1.690449,
+  "tenencia": 26.81,
+  "resultado": 2.42
+}, {
+  "fecha": "2020-11-27T12:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.672005,
+  "tenencia": 1500.16,
+  "resultado": 100.16
+}, {
+  "fecha": "2020-11-27T12:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 4.94526,
+  "tenencia": 94.34,
+  "resultado": 3.3
+}, {
+  "fecha": "2020-11-27T12:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 61867.142,
+  "valor_cp": 8.932562,
+  "tenencia": 552632.08,
+  "resultado": 7307
+}, {
+  "fecha": "2020-11-27T12:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 15.8638,
+  "valor_cp": 1.68923,
+  "tenencia": 26.79,
+  "resultado": 2.4
+}, {
+  "fecha": "2020-11-26T12:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.639464,
+  "tenencia": 1494.53,
+  "resultado": 94.53
+}, {
+  "fecha": "2020-11-26T12:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 4.929448,
+  "tenencia": 94.03,
+  "resultado": 2.99
+}, {
+  "fecha": "2020-11-26T12:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 61867.142,
+  "valor_cp": 8.908013,
+  "tenencia": 551113.3,
+  "resultado": 5788.22
+}, {
+  "fecha": "2020-11-26T12:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 15.8638,
+  "valor_cp": 1.688011,
+  "tenencia": 26.77,
+  "resultado": 2.38
+}, {
+  "fecha": "2020-11-25T12:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.619675,
+  "tenencia": 1491.11,
+  "resultado": 91.11
+}, {
+  "fecha": "2020-11-25T12:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 4.934587,
+  "tenencia": 94.13,
+  "resultado": 3.09
+}, {
+  "fecha": "2020-11-25T12:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 61867.142,
+  "valor_cp": 8.896357,
+  "tenencia": 550392.18,
+  "resultado": 5067.1
+}, {
+  "fecha": "2020-11-25T12:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 15.8638,
+  "valor_cp": 1.686794,
+  "tenencia": 26.75,
+  "resultado": 2.36
+}, {
+  "fecha": "2020-11-24T12:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.262273,
+  "tenencia": 1429.28,
+  "resultado": 29.28
+}, {
+  "fecha": "2020-11-24T12:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 4.924713,
+  "tenencia": 93.94,
+  "resultado": 2.9
+}, {
+  "fecha": "2020-11-24T12:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 61867.142,
+  "valor_cp": 8.874808,
+  "tenencia": 549059,
+  "resultado": 3733.92
+}, {
+  "fecha": "2020-11-24T12:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 15.8638,
+  "valor_cp": 1.681935,
+  "tenencia": 26.68,
+  "resultado": 2.29
+}, {
+  "fecha": "2020-11-20T12:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.124829,
+  "tenencia": 1405.51,
+  "resultado": 5.51
+}, {
+  "fecha": "2020-11-20T12:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 4.913654,
+  "tenencia": 93.73,
+  "resultado": 2.69
+}, {
+  "fecha": "2020-11-20T12:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 61867.142,
+  "valor_cp": 8.863198,
+  "tenencia": 548340.72,
+  "resultado": 3015.64
+}, {
+  "fecha": "2020-11-20T12:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 15.8638,
+  "valor_cp": 1.680715,
+  "tenencia": 26.66,
+  "resultado": 2.27
+}, {
+  "fecha": "2020-11-19T12:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.136469,
+  "tenencia": 1407.52,
+  "resultado": 7.52
+}, {
+  "fecha": "2020-11-19T12:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 4.894077,
+  "tenencia": 93.36,
+  "resultado": 2.32
+}, {
+  "fecha": "2020-11-19T12:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 61867.142,
+  "valor_cp": 8.838684,
+  "tenencia": 546824.11,
+  "resultado": 1499.03
+}, {
+  "fecha": "2020-11-19T12:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 15.8638,
+  "valor_cp": 1.6795,
+  "tenencia": 26.64,
+  "resultado": 2.25
+}, {
+  "fecha": "2020-11-18T12:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.136469,
+  "tenencia": 1407.52,
+  "resultado": 7.52
+}, {
+  "fecha": "2020-11-18T12:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 4.894077,
+  "tenencia": 93.36,
+  "resultado": 2.32
+}, {
+  "fecha": "2020-11-18T12:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 61867.142,
+  "valor_cp": 8.838684,
+  "tenencia": 546824.11,
+  "resultado": 1499.03
+}, {
+  "fecha": "2020-11-18T12:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 15.8638,
+  "valor_cp": 1.6795,
+  "tenencia": 26.64,
+  "resultado": 2.25
+}, {
+  "fecha": "2020-11-17T12:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 8.016927,
+  "tenencia": 1386.84,
+  "resultado": -13.16
+}, {
+  "fecha": "2020-11-17T12:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 4.911563,
+  "tenencia": 93.69,
+  "resultado": 2.65
+}, {
+  "fecha": "2020-11-17T12:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 77729.6522,
+  "valor_cp": 8.819349,
+  "tenencia": 685524.92,
+  "resultado": 500.17
+}, {
+  "fecha": "2020-11-17T12:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 15.8638,
+  "valor_cp": 1.677079,
+  "tenencia": 26.6,
+  "resultado": 2.21
+}, {
+  "fecha": "2020-11-16T12:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 7.868778,
+  "tenencia": 1361.21,
+  "resultado": -38.79
+}, {
+  "fecha": "2020-11-16T12:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 4.909626,
+  "tenencia": 93.66,
+  "resultado": 2.62
+}, {
+  "fecha": "2020-11-16T12:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 77729.6522,
+  "valor_cp": 8.814454,
+  "tenencia": 685144.42,
+  "resultado": 119.67
+}, {
+  "fecha": "2020-11-16T12:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 15.8638,
+  "valor_cp": 1.673477,
+  "tenencia": 26.54,
+  "resultado": 2.15
+}, {
+  "fecha": "2020-11-12T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 172.9897,
+  "valor_cp": 7.819055,
+  "tenencia": 1404.71,
+  "resultado": 4.71
+}, {
+  "fecha": "2020-11-12T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19.077,
+  "valor_cp": 4.890698,
+  "tenencia": 93.02,
+  "resultado": 1.98
+}, {
+  "fecha": "2020-11-12T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 6823.3885,
+  "valor_cp": 8.805671,
+  "tenencia": 60026.97,
+  "resultado": 2.22
+}, {
+  "fecha": "2020-11-12T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 15.8638,
+  "valor_cp": 1.672329,
+  "tenencia": 26.51,
+  "resultado": 2.12
+}, {
+  "fecha": "2020-11-10T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1670068,
+  "tenencia": 26.47,
+  "resultado": 2.08
+}, {
+  "fecha": "2020-11-10T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8790477,
+  "tenencia": 26.94,
+  "resultado": 2.19
+}, {
+  "fecha": "2020-11-10T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 8142169,
+  "tenencia": 1359.64,
+  "resultado": -40.36
+}, {
+  "fecha": "2020-11-10T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4853704,
+  "tenencia": 92.57,
+  "resultado": 1.53
+}, {
+  "fecha": "2020-11-09T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1668945,
+  "tenencia": 26.47,
+  "resultado": 2.08
+}, {
+  "fecha": "2020-11-09T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8782633,
+  "tenencia": 26.94,
+  "resultado": 2.19
+}, {
+  "fecha": "2020-11-09T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7859686,
+  "tenencia": 1359.64,
+  "resultado": -40.36
+}, {
+  "fecha": "2020-11-09T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4852629,
+  "tenencia": 92.57,
+  "resultado": 1.53
+}, {
+  "fecha": "2020-11-06T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1664454,
+  "tenencia": 26.4,
+  "resultado": 2.01
+}, {
+  "fecha": "2020-11-06T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8767654,
+  "tenencia": 26.89,
+  "resultado": 2.14
+}, {
+  "fecha": "2020-11-06T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7738813,
+  "tenencia": 1338.73,
+  "resultado": -61.27
+}, {
+  "fecha": "2020-11-06T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4842635,
+  "tenencia": 92.38,
+  "resultado": 1.34
+}, {
+  "fecha": "2020-11-05T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1663333,
+  "tenencia": 26.38,
+  "resultado": 1.99
+}, {
+  "fecha": "2020-11-05T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8762165,
+  "tenencia": 26.87,
+  "resultado": 2.12
+}, {
+  "fecha": "2020-11-05T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7373039,
+  "tenencia": 1275.45,
+  "resultado": -124.55
+}, {
+  "fecha": "2020-11-05T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4813965,
+  "tenencia": 91.83,
+  "resultado": 0.79
+}, {
+  "fecha": "2020-11-04T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1662211,
+  "tenencia": 26.36,
+  "resultado": 1.97
+}, {
+  "fecha": "2020-11-04T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 875042,
+  "tenencia": 26.84,
+  "resultado": 2.09
+}, {
+  "fecha": "2020-11-04T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7421969,
+  "tenencia": 1283.92,
+  "resultado": -116.08
+}, {
+  "fecha": "2020-11-04T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4779776,
+  "tenencia": 91.18,
+  "resultado": 0.14
+}, {
+  "fecha": "2020-11-03T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1661091,
+  "tenencia": 26.35,
+  "resultado": 1.96
+}, {
+  "fecha": "2020-11-03T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8715226,
+  "tenencia": 26.73,
+  "resultado": 1.98
+}, {
+  "fecha": "2020-11-03T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7263911,
+  "tenencia": 1256.58,
+  "resultado": -143.42
+}, {
+  "fecha": "2020-11-03T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4743873,
+  "tenencia": 90.49,
+  "resultado": -0.55
+}, {
+  "fecha": "2020-11-02T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1657747,
+  "tenencia": 26.29,
+  "resultado": 1.9
+}, {
+  "fecha": "2020-11-02T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8713732,
+  "tenencia": 26.73,
+  "resultado": 1.98
+}, {
+  "fecha": "2020-11-02T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 6930141,
+  "tenencia": 1198.84,
+  "resultado": -201.16
+}, {
+  "fecha": "2020-11-02T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4756273,
+  "tenencia": 90.73,
+  "resultado": -0.31
+}, {
+  "fecha": "2020-10-30T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1656631,
+  "tenencia": 26.28,
+  "resultado": 1.89
+}, {
+  "fecha": "2020-10-30T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8702784,
+  "tenencia": 26.69,
+  "resultado": 1.94
+}, {
+  "fecha": "2020-10-30T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7111063,
+  "tenencia": 1230.14,
+  "resultado": -169.86
+}, {
+  "fecha": "2020-10-30T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4722058,
+  "tenencia": 90.08,
+  "resultado": -0.96
+}, {
+  "fecha": "2020-10-29T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1655544,
+  "tenencia": 26.26,
+  "resultado": 1.87
+}, {
+  "fecha": "2020-10-29T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8689944,
+  "tenencia": 26.65,
+  "resultado": 1.9
+}, {
+  "fecha": "2020-10-29T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 690149,
+  "tenencia": 1193.88,
+  "resultado": -206.12
+}, {
+  "fecha": "2020-10-29T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4722449,
+  "tenencia": 90.09,
+  "resultado": -0.95
+}, {
+  "fecha": "2020-10-28T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1654463,
+  "tenencia": 26.24,
+  "resultado": 1.85
+}, {
+  "fecha": "2020-10-28T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8683909,
+  "tenencia": 26.63,
+  "resultado": 1.88
+}, {
+  "fecha": "2020-10-28T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7383253,
+  "tenencia": 1277.22,
+  "resultado": -122.78
+}, {
+  "fecha": "2020-10-28T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4734671,
+  "tenencia": 90.32,
+  "resultado": -0.72
+}, {
+  "fecha": "2020-10-27T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1653383,
+  "tenencia": 26.22,
+  "resultado": 1.83
+}, {
+  "fecha": "2020-10-27T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 867763,
+  "tenencia": 26.61,
+  "resultado": 1.86
+}, {
+  "fecha": "2020-10-27T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 774388,
+  "tenencia": 1339.61,
+  "resultado": -60.39
+}, {
+  "fecha": "2020-10-27T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4767368,
+  "tenencia": 90.94,
+  "resultado": -0.1
+}, {
+  "fecha": "2020-10-26T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1650148,
+  "tenencia": 26.17,
+  "resultado": 1.78
+}, {
+  "fecha": "2020-10-26T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8671602,
+  "tenencia": 26.6,
+  "resultado": 1.85
+}, {
+  "fecha": "2020-10-26T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 8396035,
+  "tenencia": 1452.42,
+  "resultado": 52.42
+}, {
+  "fecha": "2020-10-26T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4804696,
+  "tenencia": 91.65,
+  "resultado": 0.61
+}, {
+  "fecha": "2020-10-23T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1649072,
+  "tenencia": 26.16,
+  "resultado": 1.77
+}, {
+  "fecha": "2020-10-23T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8671555,
+  "tenencia": 26.6,
+  "resultado": 1.85
+}, {
+  "fecha": "2020-10-23T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 8283748,
+  "tenencia": 1433,
+  "resultado": 33
+}, {
+  "fecha": "2020-10-23T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4803765,
+  "tenencia": 91.64,
+  "resultado": 0.6
+}, {
+  "fecha": "2020-10-22T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1647995,
+  "tenencia": 26.14,
+  "resultado": 1.75
+}, {
+  "fecha": "2020-10-22T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8647064,
+  "tenencia": 26.52,
+  "resultado": 1.77
+}, {
+  "fecha": "2020-10-22T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 803285,
+  "tenencia": 1389.6,
+  "resultado": -10.4
+}, {
+  "fecha": "2020-10-22T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4808521,
+  "tenencia": 91.73,
+  "resultado": 0.69
+}, {
+  "fecha": "2020-10-21T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1646919,
+  "tenencia": 26.12,
+  "resultado": 1.73
+}, {
+  "fecha": "2020-10-21T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8642043,
+  "tenencia": 26.51,
+  "resultado": 1.76
+}, {
+  "fecha": "2020-10-21T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7930543,
+  "tenencia": 1371.9,
+  "resultado": -28.1
+}, {
+  "fecha": "2020-10-21T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4793004,
+  "tenencia": 91.43,
+  "resultado": 0.39
+}, {
+  "fecha": "2020-10-20T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1645855,
+  "tenencia": 26.1,
+  "resultado": 1.71
+}, {
+  "fecha": "2020-10-20T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8626235,
+  "tenencia": 26.46,
+  "resultado": 1.71
+}, {
+  "fecha": "2020-10-20T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7821987,
+  "tenencia": 1353.12,
+  "resultado": -46.88
+}, {
+  "fecha": "2020-10-20T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4782426,
+  "tenencia": 91.23,
+  "resultado": 0.19
+}, {
+  "fecha": "2020-10-19T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1642726,
+  "tenencia": 26.05,
+  "resultado": 1.66
+}, {
+  "fecha": "2020-10-19T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8613505,
+  "tenencia": 26.42,
+  "resultado": 1.67
+}, {
+  "fecha": "2020-10-19T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7798116,
+  "tenencia": 1348.99,
+  "resultado": -51.01
+}, {
+  "fecha": "2020-10-19T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4812051,
+  "tenencia": 91.79,
+  "resultado": 0.75
+}, {
+  "fecha": "2020-10-16T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1641738,
+  "tenencia": 26.04,
+  "resultado": 1.65
+}, {
+  "fecha": "2020-10-16T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8603638,
+  "tenencia": 26.39,
+  "resultado": 1.64
+}, {
+  "fecha": "2020-10-16T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7690739,
+  "tenencia": 1330.41,
+  "resultado": -69.59
+}, {
+  "fecha": "2020-10-16T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4803921,
+  "tenencia": 91.64,
+  "resultado": 0.6
+}, {
+  "fecha": "2020-10-15T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 164075,
+  "tenencia": 26.02,
+  "resultado": 1.63
+}, {
+  "fecha": "2020-10-15T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8604379,
+  "tenencia": 26.39,
+  "resultado": 1.64
+}, {
+  "fecha": "2020-10-15T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7512721,
+  "tenencia": 1299.62,
+  "resultado": -100.38
+}, {
+  "fecha": "2020-10-15T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4819509,
+  "tenencia": 91.94,
+  "resultado": 0.9
+}, {
+  "fecha": "2020-10-14T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1639769,
+  "tenencia": 26.01,
+  "resultado": 1.62
+}, {
+  "fecha": "2020-10-14T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8616112,
+  "tenencia": 26.43,
+  "resultado": 1.68
+}, {
+  "fecha": "2020-10-14T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7331385,
+  "tenencia": 1268.25,
+  "resultado": -131.75
+}, {
+  "fecha": "2020-10-14T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4800345,
+  "tenencia": 91.57,
+  "resultado": 0.53
+}, {
+  "fecha": "2020-10-13T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1635827,
+  "tenencia": 25.95,
+  "resultado": 1.56
+}, {
+  "fecha": "2020-10-13T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8608569,
+  "tenencia": 26.4,
+  "resultado": 1.65
+}, {
+  "fecha": "2020-10-13T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7282352,
+  "tenencia": 1259.77,
+  "resultado": -140.23
+}, {
+  "fecha": "2020-10-13T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4833297,
+  "tenencia": 92.2,
+  "resultado": 1.16
+}, {
+  "fecha": "2020-10-12T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1635827,
+  "tenencia": 25.95,
+  "resultado": 1.56
+}, {
+  "fecha": "2020-10-12T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8608569,
+  "tenencia": 26.4,
+  "resultado": 1.65
+}, {
+  "fecha": "2020-10-12T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7282352,
+  "tenencia": 1259.77,
+  "resultado": -140.23
+}, {
+  "fecha": "2020-10-12T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4833297,
+  "tenencia": 92.2,
+  "resultado": 1.16
+}, {
+  "fecha": "2020-10-09T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1634899,
+  "tenencia": 25.93,
+  "resultado": 1.54
+}, {
+  "fecha": "2020-10-09T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8612709,
+  "tenencia": 26.42,
+  "resultado": 1.67
+}, {
+  "fecha": "2020-10-09T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7198919,
+  "tenencia": 1245.33,
+  "resultado": -154.67
+}, {
+  "fecha": "2020-10-09T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4854456,
+  "tenencia": 92.6,
+  "resultado": 1.56
+}, {
+  "fecha": "2020-10-08T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1633979,
+  "tenencia": 25.92,
+  "resultado": 1.53
+}, {
+  "fecha": "2020-10-08T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8596303,
+  "tenencia": 26.37,
+  "resultado": 1.62
+}, {
+  "fecha": "2020-10-08T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7040929,
+  "tenencia": 1218,
+  "resultado": -182
+}, {
+  "fecha": "2020-10-08T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4846703,
+  "tenencia": 92.46,
+  "resultado": 1.42
+}, {
+  "fecha": "2020-10-07T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1633979,
+  "tenencia": 25.92,
+  "resultado": 1.53
+}, {
+  "fecha": "2020-10-07T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8596303,
+  "tenencia": 26.37,
+  "resultado": 1.62
+}, {
+  "fecha": "2020-10-07T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7040929,
+  "tenencia": 1218,
+  "resultado": -182
+}, {
+  "fecha": "2020-10-07T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4846703,
+  "tenencia": 92.46,
+  "resultado": 1.42
+}, {
+  "fecha": "2020-10-06T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1633064,
+  "tenencia": 25.9,
+  "resultado": 1.51
+}, {
+  "fecha": "2020-10-06T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8599187,
+  "tenencia": 26.37,
+  "resultado": 1.62
+}, {
+  "fecha": "2020-10-06T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7007205,
+  "tenencia": 1212.17,
+  "resultado": -187.83
+}, {
+  "fecha": "2020-10-06T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4848511,
+  "tenencia": 92.49,
+  "resultado": 1.45
+}, {
+  "fecha": "2020-10-05T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1629433,
+  "tenencia": 25.84,
+  "resultado": 1.45
+}, {
+  "fecha": "2020-10-05T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8588257,
+  "tenencia": 26.34,
+  "resultado": 1.59
+}, {
+  "fecha": "2020-10-05T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 6976306,
+  "tenencia": 1206.82,
+  "resultado": -193.18
+}, {
+  "fecha": "2020-10-05T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4866538,
+  "tenencia": 92.83,
+  "resultado": 1.79
+}, {
+  "fecha": "2020-10-02T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 158638,
+  "valor_cp": 1628591,
+  "tenencia": 25.83,
+  "resultado": 1.44
+}, {
+  "fecha": "2020-10-02T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 30676,
+  "valor_cp": 8578335,
+  "tenencia": 26.32,
+  "resultado": 1.57
+}, {
+  "fecha": "2020-10-02T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 6920716,
+  "tenencia": 1197.21,
+  "resultado": -202.79
+}, {
+  "fecha": "2020-10-02T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 19077,
+  "valor_cp": 4828828,
+  "tenencia": 92.12,
+  "resultado": 1.08
+}, {
+  "fecha": "2020-10-01T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 219980558,
+  "valor_cp": 1628591,
+  "tenencia": 35825.83,
+  "resultado": 1998.8
+}, {
+  "fecha": "2020-10-01T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 8578335,
+  "tenencia": 365826.31,
+  "resultado": 25826.31
+}, {
+  "fecha": "2020-10-01T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 6920716,
+  "tenencia": 1197.21,
+  "resultado": -202.79
+}, {
+  "fecha": "2020-10-01T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 20976546,
+  "valor_cp": 4828828,
+  "tenencia": 101292.11,
+  "resultado": 4037.87
+}, {
+  "fecha": "2020-09-30T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 219980558,
+  "valor_cp": 1626898,
+  "tenencia": 35788.59,
+  "resultado": 1961.56
+}, {
+  "fecha": "2020-09-30T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 857358,
+  "tenencia": 365623.54,
+  "resultado": 25623.54
+}, {
+  "fecha": "2020-09-30T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 6772083,
+  "tenencia": 1171.5,
+  "resultado": -228.5
+}, {
+  "fecha": "2020-09-30T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 20976546,
+  "valor_cp": 4810938,
+  "tenencia": 100916.85,
+  "resultado": 3662.61
+}, {
+  "fecha": "2020-09-28T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 219980558,
+  "valor_cp": 1623492,
+  "tenencia": 35713.66,
+  "resultado": 1886.63
+}, {
+  "fecha": "2020-09-28T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 8553492,
+  "tenencia": 364766.87,
+  "resultado": 24766.87
+}, {
+  "fecha": "2020-09-28T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 6746835,
+  "tenencia": 1167.13,
+  "resultado": -232.87
+}, {
+  "fecha": "2020-09-28T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 20976546,
+  "valor_cp": 4798206,
+  "tenencia": 100649.78,
+  "resultado": 3395.54
+}, {
+  "fecha": "2020-09-25T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 219980558,
+  "valor_cp": 1622635,
+  "tenencia": 35694.81,
+  "resultado": 1867.78
+}, {
+  "fecha": "2020-09-25T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 8547281,
+  "tenencia": 364501.99,
+  "resultado": 24501.99
+}, {
+  "fecha": "2020-09-25T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 6657759,
+  "tenencia": 1151.72,
+  "resultado": -248.28
+}, {
+  "fecha": "2020-09-25T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 20976546,
+  "valor_cp": 4759876,
+  "tenencia": 99845.74,
+  "resultado": 2591.5
+}, {
+  "fecha": "2020-09-24T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 219980558,
+  "valor_cp": 1621795,
+  "tenencia": 35676.33,
+  "resultado": 1849.3
+}, {
+  "fecha": "2020-09-24T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 8547889,
+  "tenencia": 364527.93,
+  "resultado": 24527.93
+}, {
+  "fecha": "2020-09-24T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 6530683,
+  "tenencia": 1129.74,
+  "resultado": -270.26
+}, {
+  "fecha": "2020-09-24T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 20976546,
+  "valor_cp": 4781703,
+  "tenencia": 100303.6,
+  "resultado": 3049.36
+}, {
+  "fecha": "2020-09-23T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 219980558,
+  "valor_cp": 1620949,
+  "tenencia": 35657.72,
+  "resultado": 1830.69
+}, {
+  "fecha": "2020-09-23T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 8545323,
+  "tenencia": 364418.5,
+  "resultado": 24418.5
+}, {
+  "fecha": "2020-09-23T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 6616644,
+  "tenencia": 1144.61,
+  "resultado": -255.39
+}, {
+  "fecha": "2020-09-23T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 20976546,
+  "valor_cp": 4802594,
+  "tenencia": 100741.82,
+  "resultado": 3487.58
+}, {
+  "fecha": "2020-09-22T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 219980558,
+  "valor_cp": 1620094,
+  "tenencia": 35638.91,
+  "resultado": 1811.88
+}, {
+  "fecha": "2020-09-22T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 8538063,
+  "tenencia": 364108.89,
+  "resultado": 24108.89
+}, {
+  "fecha": "2020-09-22T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 6528726,
+  "tenencia": 1129.4,
+  "resultado": -270.6
+}, {
+  "fecha": "2020-09-22T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 20976546,
+  "valor_cp": 4785204,
+  "tenencia": 100377.04,
+  "resultado": 3122.8
+}, {
+  "fecha": "2020-09-21T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 219980558,
+  "valor_cp": 1617585,
+  "tenencia": 35583.72,
+  "resultado": 1756.69
+}, {
+  "fecha": "2020-09-21T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 8525304,
+  "tenencia": 363564.78,
+  "resultado": 23564.78
+}, {
+  "fecha": "2020-09-21T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 6610956,
+  "tenencia": 1143.62,
+  "resultado": -256.38
+}, {
+  "fecha": "2020-09-21T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 20976546,
+  "valor_cp": 4784752,
+  "tenencia": 100367.55,
+  "resultado": 3113.31
+}, {
+  "fecha": "2020-09-18T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 219980558,
+  "valor_cp": 161674,
+  "tenencia": 35565.13,
+  "resultado": 1738.1
+}, {
+  "fecha": "2020-09-18T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 8514794,
+  "tenencia": 363116.58,
+  "resultado": 23116.58
+}, {
+  "fecha": "2020-09-18T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 6361342,
+  "tenencia": 1100.44,
+  "resultado": -299.56
+}, {
+  "fecha": "2020-09-18T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 20976546,
+  "valor_cp": 4779155,
+  "tenencia": 100250.15,
+  "resultado": 2995.91
+}, {
+  "fecha": "2020-08-20T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 219980558,
+  "valor_cp": 1592747,
+  "tenencia": 35037.33,
+  "resultado": 1210.3
+}, {
+  "fecha": "2020-08-20T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 8350371,
+  "tenencia": 356104.69,
+  "resultado": 16104.69
+}, {
+  "fecha": "2020-08-20T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7704113,
+  "tenencia": 1332.73,
+  "resultado": -67.27
+}, {
+  "fecha": "2020-08-20T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 111428287,
+  "valor_cp": 4702383,
+  "tenencia": 52397.84,
+  "resultado": 2071.21
+}, {
+  "fecha": "2020-08-19T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 219980558,
+  "valor_cp": 1591914,
+  "tenencia": 35019.01,
+  "resultado": 1191.98
+}, {
+  "fecha": "2020-08-19T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 834644,
+  "tenencia": 355937.06,
+  "resultado": 15937.06
+}, {
+  "fecha": "2020-08-19T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7545887,
+  "tenencia": 1305.36,
+  "resultado": -94.64
+}, {
+  "fecha": "2020-08-19T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 111428287,
+  "valor_cp": 4647012,
+  "tenencia": 51780.85,
+  "resultado": 1454.22
+}, {
+  "fecha": "2020-08-13T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 219980558,
+  "valor_cp": 1587026,
+  "tenencia": 34911.48,
+  "resultado": 1084.45
+}, {
+  "fecha": "2020-08-13T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 830621,
+  "tenencia": 354221.43,
+  "resultado": 14221.43
+}, {
+  "fecha": "2020-08-13T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 7816051,
+  "tenencia": 1352.09,
+  "resultado": -47.91
+}, {
+  "fecha": "2020-08-13T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 111428287,
+  "valor_cp": 4763112,
+  "tenencia": 53074.53,
+  "resultado": 2747.9
+}, {
+  "fecha": "2020-08-12T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 219980558,
+  "valor_cp": 1586217,
+  "tenencia": 34893.69,
+  "resultado": 1066.66
+}, {
+  "fecha": "2020-08-12T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 8295719,
+  "tenencia": 353774.04,
+  "resultado": 13774.04
+}, {
+  "fecha": "2020-08-12T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1729897,
+  "valor_cp": 8092967,
+  "tenencia": 1400,
+  "resultado": 0
+}, {
+  "fecha": "2020-08-12T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 111428287,
+  "valor_cp": 4805098,
+  "tenencia": 53542.38,
+  "resultado": 3215.75
+}, {
+  "fecha": "2020-08-11T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 219980558,
+  "valor_cp": 1585409,
+  "tenencia": 34875.91,
+  "resultado": 1048.88
+}, {
+  "fecha": "2020-08-11T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 8292994,
+  "tenencia": 353657.84,
+  "resultado": 13657.84
+}, {
+  "fecha": "2020-08-11T03:00:00.000Z",
+  "tipo": "Renta Variable en Pesos",
+  "fondo": "Superfondo Acciones",
+  "cuotapartes": 1686465,
+  "valor_cp": 8301386,
+  "tenencia": 1400,
+  "resultado": 0
+}, {
+  "fecha": "2020-08-11T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 111428287,
+  "valor_cp": 4790479,
+  "tenencia": 53379.47,
+  "resultado": 3052.84
+}, {
+  "fecha": "2020-08-07T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 219980558,
+  "valor_cp": 1582218,
+  "tenencia": 34805.71,
+  "resultado": 978.68
+}, {
+  "fecha": "2020-08-07T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 8280317,
+  "tenencia": 353117.22,
+  "resultado": 13117.22
+}, {
+  "fecha": "2020-08-07T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 111428287,
+  "valor_cp": 476905,
+  "tenencia": 53140.7,
+  "resultado": 2814.07
+}, {
+  "fecha": "2020-08-05T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 219980558,
+  "valor_cp": 158142,
+  "tenencia": 34770.36,
+  "resultado": 943.33
+}, {
+  "fecha": "2020-08-05T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 8273595,
+  "tenencia": 352590.08,
+  "resultado": 12590.08
+}, {
+  "fecha": "2020-08-05T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 111428287,
+  "valor_cp": 4734398,
+  "tenencia": 52395.53,
+  "resultado": 2068.9
+}, {
+  "fecha": "2020-08-03T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 219980558,
+  "valor_cp": 1577417,
+  "tenencia": 34700.1,
+  "resultado": 873.07
+}, {
+  "fecha": "2020-08-03T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 8248893,
+  "tenencia": 351777.13,
+  "resultado": 11777.13
+}, {
+  "fecha": "2020-08-03T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 111428287,
+  "valor_cp": 4619321,
+  "tenencia": 51472.29,
+  "resultado": 1145.66
+}, {
+  "fecha": "2020-07-31T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 219980558,
+  "valor_cp": 1576619,
+  "tenencia": 34682.55,
+  "resultado": 855.52
+}, {
+  "fecha": "2020-07-31T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 8237304,
+  "tenencia": 351282.92,
+  "resultado": 11282.92
+}, {
+  "fecha": "2020-07-31T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 111428287,
+  "valor_cp": 4568911,
+  "tenencia": 50910.59,
+  "resultado": 583.96
+}, {
+  "fecha": "2020-07-30T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 219980558,
+  "valor_cp": 1576619,
+  "tenencia": 34665.17,
+  "resultado": 838.14
+}, {
+  "fecha": "2020-07-30T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 8237304,
+  "tenencia": 350838.09,
+  "resultado": 10838.09
+}, {
+  "fecha": "2020-07-30T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 111428287,
+  "valor_cp": 4568911,
+  "tenencia": 50352.97,
+  "resultado": 26.34
+}, {
+  "fecha": "2020-07-27T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 53743503,
+  "valor_cp": 157184,
+  "tenencia": 84476.18,
+  "resultado": 1833.29
+}, {
+  "fecha": "2020-07-27T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 8206413,
+  "tenencia": 349965.55,
+  "resultado": 9965.55
+}, {
+  "fecha": "2020-07-27T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 781132,
+  "valor_cp": 4471524,
+  "tenencia": 349.28,
+  "resultado": 22.65
+}, {
+  "fecha": "2020-07-24T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 53743503,
+  "valor_cp": 157184,
+  "tenencia": 84433.35,
+  "resultado": 1790.46
+}, {
+  "fecha": "2020-07-24T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 8201671,
+  "tenencia": 349763.32,
+  "resultado": 9763.32
+}, {
+  "fecha": "2020-07-24T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 781132,
+  "valor_cp": 4471524,
+  "tenencia": 349.17,
+  "resultado": 22.54
+}, {
+  "fecha": "2020-07-21T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 53743503,
+  "valor_cp": 1569455,
+  "tenencia": 84305.39,
+  "resultado": 1662.5
+}, {
+  "fecha": "2020-07-21T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 8187121,
+  "tenencia": 348790.35,
+  "resultado": 8790.35
+}, {
+  "fecha": "2020-07-21T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 781132,
+  "valor_cp": 4407492,
+  "tenencia": 342.02,
+  "resultado": 15.39
+}, {
+  "fecha": "2020-07-20T03:00:00.000Z",
+  "tipo": "Mercado de Dinero en pesos",
+  "fondo": "Super Ahorro $",
+  "cuotapartes": 53743503,
+  "valor_cp": 156631,
+  "tenencia": 84136.31,
+  "resultado": 1493.42
+}, {
+  "fecha": "2020-07-20T03:00:00.000Z",
+  "tipo": "Renta Fija en Pesos",
+  "fondo": "Supergestión MIX VI",
+  "cuotapartes": 42645377,
+  "valor_cp": 8169383,
+  "tenencia": 348072.45,
+  "resultado": 8072.45
+}, {
+  "fecha": "2020-07-20T03:00:00.000Z",
+  "tipo": "",
+  "fondo": "Superfondo Renta $",
+  "cuotapartes": 781132,
+  "valor_cp": 4381581,
+  "tenencia": 339.17,
+  "resultado": 12.54
+}]
